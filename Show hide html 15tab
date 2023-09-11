@@ -2,44 +2,43 @@
 		<li><a href="#content1-1">Cover</a></li>
 		<li><a href="#content1-2">Info</a></li>
 		<li><a href="#content1-3">Tracklist</a></li>
-		<li><a href="#content1-4">Download</a></li>
-			</ul>
+		<li><a href="#content1-4">Download</a></li> </ul>
 
-	<!-- Content -->
-	<div class="tabContent" id="content1-1">
+	<!-- Content --
+  <div class="tabContent" id="content1-1">
 	
   </div>
-  <div class="tabContent" id="content1-2">
+  <div class="tabContent info" id="content1-2">
       
-	</div>
-  <div class="tabContent" id="content1-3">
+  </div>
+  <div class="tabContent tracklist" id="content1-3">
 		
   </div>
-  <div class="tabContent" id="content1-4">
+  <div class="tabContent unduh" id="content1-4">
 	
-	</div>
+   </div>
 
 
-<ul class="tab tab2" data-tab-name="tab2">
+  <ul class="tab tab2" data-tab-name="tab2">
 		<li><a href="#content1-5">Cover</a></li>
 		<li><a href="#content1-6">Info</a></li>
 		<li><a href="#content1-7">Tracklist</a></li>
 		<li><a href="#content1-8">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-5">
+  <div class="tabContent" id="content1-5">
 	
   </div>
-  <div class="tabContent" id="content1-6">
+  <div class="tabContent info" id="content1-6">
       
-	</div>
-  <div class="tabContent" id="content1-7">
+  </div>
+  <div class="tabContent tracklist" id="content1-7">
 		
   </div>
-  <div class="tabContent" id="content1-8">
+  <div class="tabContent unduh" id="content1-8">
 	
-	</div>
+   </div>
 
 
   <ul class="tab tab3" data-tab-name="tab3">
@@ -47,43 +46,43 @@
 		<li><a href="#content1-10">Info</a></li>
 		<li><a href="#content1-11">Tracklist</a></li>
 		<li><a href="#content1-12">Download</a></li>
-	</ul>
+  </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-9">
+  <div class="tabContent" id="content1-9">
 	
   </div>
-  <div class="tabContent" id="content1-10">
+  <div class="tabContent info" id="content1-10">
       
-	</div>
-  <div class="tabContent" id="content1-11">
+   </div>
+  <div class="tabContent tracklist" id="content1-11">
 		
   </div>
-  <div class="tabContent" id="content1-12">
+  <div class="tabContent unduh" id="content1-12">
 	
-	</div>
+  </div>
 
 
-<ul class="tab tab4" data-tab-name="tab4">
+  <ul class="tab tab4" data-tab-name="tab4">
 		<li><a href="#content1-13">Cover</a></li>
 		<li><a href="#content1-14">Info</a></li>
 		<li><a href="#content1-15">Tracklist</a></li>
 		<li><a href="#content1-16">Download</a></li>
-			</ul>
+  </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-13">
+  <div class="tabContent" id="content1-13">
 
   </div>
-  <div class="tabContent" id="content1-14">
+  <div class="tabContent info" id="content1-14">
       
-	</div>
-  <div class="tabContent" id="content1-15">
+  </div>
+  <div class="tabContent tracklist" id="content1-15">
 		
   </div>
-  <div class="tabContent" id="content1-16">
+  <div class="tabContent unduh" id="content1-16">
 	
-	</div>
+   </div>
 
 
   <ul class="tab tab5" data-tab-name="tab5">
@@ -91,21 +90,21 @@
 		<li><a href="#content1-18">Info</a></li>
 		<li><a href="#content1-19">Tracklist</a></li>
 		<li><a href="#content1-20">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-17">
+  <div class="tabContent" id="content1-17">
 
   </div>
-  <div class="tabContent" id="content1-18">
+  <div class="tabContent info" id="content1-18">
       
-	</div>
-  <div class="tabContent" id="content1-19">
+  </div>
+  <div class="tabContent tracklist" id="content1-19">
 		
   </div>
-  <div class="tabContent" id="content1-20">
+  <div class="tabContent unduh" id="content1-20">
 	
-	</div>
+  </div>
 
 
 
@@ -114,21 +113,21 @@
 		<li><a href="#content1-22">Info</a></li>
 		<li><a href="#content1-23">Tracklist</a></li>
 		<li><a href="#content1-24">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-21">
+  <div class="tabContent" id="content1-21">
 
   </div>
-  <div class="tabContent" id="content1-22">
+  <div class="tabContent info" id="content1-22">
       
-	</div>
-  <div class="tabContent" id="content1-23">
+   </div>
+  <div class="tabContent tracklist" id="content1-23">
 		
   </div>
-  <div class="tabContent" id="content1-24">
+  <div class="tabContent unduh" id="content1-24">
 	
-	</div>
+   </div>
 
 
   <ul class="tab tab7" data-tab-name="tab7">
@@ -136,147 +135,147 @@
 		<li><a href="#content1-26">Info</a></li>
 		<li><a href="#content1-27">Tracklist</a></li>
 		<li><a href="#content1-28">Download</a></li>
-			</ul>
+  </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-25">
+  <div class="tabContent" id="content1-25">
 
   </div>
-  <div class="tabContent" id="content1-26">
+  <div class="tabContent info" id="content1-26">
       
-	</div>
-  <div class="tabContent" id="content1-27">
+   </div>
+  <div class="tabContent tracklist" id="content1-27">
 		
   </div>
-  <div class="tabContent" id="content1-28">
+  <div class="tabContent unduh" id="content1-28">
 	
-	</div>
+   </div>
 
   <ul class="tab tab8" data-tab-name="tab8">
 		<li><a href="#content1-29">Cover</a></li>
 		<li><a href="#content1-30">Info</a></li>
 		<li><a href="#content1-31">Tracklist</a></li>
 		<li><a href="#content1-32">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-29">
+  <div class="tabContent" id="content1-29">
 
   </div>
-  <div class="tabContent" id="content1-30">
+  <div class="tabContent info" id="content1-30">
       
-	</div>
-  <div class="tabContent" id="content1-31">
+  </div>
+  <div class="tabContent tracklist" id="content1-31">
 		
   </div>
-  <div class="tabContent" id="content1-32">
+  <div class="tabContent unduh" id="content1-32">
 	
-	</div>
+  </div>
 
   <ul class="tab tab9" data-tab-name="tab9">
 		<li><a href="#content1-33">Cover</a></li>
 		<li><a href="#content1-34">Info</a></li>
 		<li><a href="#content1-35">Tracklist</a></li>
 		<li><a href="#content1-36">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-33">
+   <div class="tabContent" id="content1-33">
 
   </div>
-  <div class="tabContent" id="content1-34">
-      
-	</div>
-  <div class="tabContent" id="content1-35">
+  <div class="tabContent info" id="content1-34">
+    
+  </div>
+  <div class="tabContent tracklist" id="content1-35">
 		
   </div>
-  <div class="tabContent" id="content1-36">
+  <div class="tabContent unduh" id="content1-36">
 	
-	</div>
+   </div>
 
    <ul class="tab tab10" data-tab-name="tab10">
 		<li><a href="#content1-37">Cover</a></li>
 		<li><a href="#content1-38">Info</a></li>
 		<li><a href="#content1-38">Tracklist</a></li>
 		<li><a href="#content1-39">Download</a></li>
-			</ul>
+    </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-37">
+  <div class="tabContent" id="content1-37">
 
   </div>
-  <div class="tabContent" id="content1-38">
+  <div class="tabContent info" id="content1-38">
       
-	</div>
-  <div class="tabContent" id="content1-39">
+  </div>
+  <div class="tabContent tracklist" id="content1-39">
 		
   </div>
-  <div class="tabContent" id="content1-40">
+  <div class="tabContent unduh" id="content1-40">
 	
-	</div>
+   </div>
 
    <ul class="tab tab11" data-tab-name="tab11">
 		<li><a href="#content1-41">Cover</a></li>
 		<li><a href="#content1-42">Info</a></li>
 		<li><a href="#content1-43">Tracklist</a></li>
 		<li><a href="#content1-44">Download</a></li>
-			</ul>
+    </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-41">
+  <div class="tabContent" id="content1-41">
 
   </div>
-  <div class="tabContent" id="content1-42">
+  <div class="tabContent info" id="content1-42">
       
-	</div>
-  <div class="tabContent" id="content1-43">
+   </div>
+  <div class="tabContent tracklist" id="content1-43">
 		
   </div>
-  <div class="tabContent" id="content1-44">
-	
-	</div>
+  <div class="tabContent unduh" id="content1-44">
+  
+   </div>
 
    <ul class="tab tab12" data-tab-name="tab12">
 		<li><a href="#content1-45">Cover</a></li>
 		<li><a href="#content1-46">Info</a></li>
 		<li><a href="#content1-47">Tracklist</a></li>
 		<li><a href="#content1-48">Download</a></li>
-			</ul>
+    </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-45">
+  <div class="tabContent" id="content1-45">
 
   </div>
-  <div class="tabContent" id="content1-46">
+  <div class="tabContent info" id="content1-46">
       
-	</div>
-  <div class="tabContent" id="content1-47">
+  </div>
+  <div class="tabContent tracklist" id="content1-47">
 		
   </div>
-  <div class="tabContent" id="content1-48">
+  <div class="tabContent unduh" id="content1-48">
 	
-	</div>
+  </div>
 
   <ul class="tab tab13" data-tab-name="tab13">
 		<li><a href="#content1-49">Cover</a></li>
 		<li><a href="#content1-50">Info</a></li>
 		<li><a href="#content1-51">Tracklist</a></li>
 		<li><a href="#content1-52">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-49">
+  <div class="tabContent" id="content1-49">
 
   </div>
-  <div class="tabContent" id="content1-50">
+  <div class="tabContent info" id="content1-50">
       
 	</div>
-  <div class="tabContent" id="content1-51">
+  <div class="tabContent tracklist" id="content1-51">
 		
   </div>
-  <div class="tabContent" id="content1-52">
+  <div class="tabContent unduh" id="content1-52">
 	
-	</div>
+  </div>
 
 
   <ul class="tab tab14" data-tab-name="tab14">
@@ -284,41 +283,41 @@
 		<li><a href="#content1-54">Info</a></li>
 		<li><a href="#content1-55">Tracklist</a></li>
 		<li><a href="#content1-56">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-53">
+  <div class="tabContent" id="content1-53">
 
   </div>
-  <div class="tabContent" id="content1-54">
+  <div class="tabContent info" id="content1-54">
       
-	</div>
-  <div class="tabContent" id="content1-55">
+  </div>
+  <div class="tabContent tracklist" id="content1-55">
 		
   </div>
-  <div class="tabContent" id="content1-56">
+  <div class="tabContent unduh" id="content1-56">
 	
-	</div>
+  </div>
 
    <ul class="tab tab15" data-tab-name="tab15">
 		<li><a href="#content1-57">Cover</a></li>
 		<li><a href="#content1-58">Info</a></li>
 		<li><a href="#content1-59">Tracklist</a></li>
 		<li><a href="#content1-60">Download</a></li>
-			</ul>
+   </ul>
 
 	<!-- Content -->
-	<div class="tabContent" id="content1-57">
+  <div class="tabContent" id="content1-57">
 
   </div>
-  <div class="tabContent" id="content1-58">
+  <div class="tabContent info" id="content1-58">
       
-	</div>
-  <div class="tabContent" id="content1-59">
+   </div>
+  <div class="tabContent tracklist" id="content1-59">
 		
   </div>
-  <div class="tabContent" id="content1-601">
+  <div class="tabContent unduh" id="content1-601">
 	
-	</div>
+  </div>
 
 
